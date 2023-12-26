@@ -1,0 +1,6 @@
+/prototype-pattern
+|-- /src
+    |-- prototype.js
+|-- .gitignore
+|-- package.json
+|-- README.md
